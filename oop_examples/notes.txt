@@ -1,0 +1,1 @@
+how to override if name == main
