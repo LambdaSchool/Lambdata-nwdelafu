@@ -12,7 +12,7 @@ class BareMinimumClass:
 
 
 class Car:
-    """An example of a class with attributes and methods"""
+    """An e xample of a class with attributes and methods"""
 
     def __init__(self, fuel, maxspeed, speed=0):
         """
